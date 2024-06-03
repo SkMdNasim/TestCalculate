@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestCalculate</string>
+    <string name="intersect">Intersect :</string>
+    <string name="union">Union :</string>
+    <string name="highest_number">Highest Number :</string>
+</resources>
